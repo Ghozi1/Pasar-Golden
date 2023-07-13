@@ -11,7 +11,7 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #7d2ae8;
+  background: #ffffff;
   padding: 30px;
 }
 .container{
@@ -37,8 +37,8 @@ body{
 .container #flip:checked ~ .cover{
   transform: rotateY(-180deg);
 }
- .container .cover .front,
- .container .cover .back{
+.container .cover .front,
+.container .cover .back{
   position: absolute;
   top: 0;
   left: 0;
@@ -196,6 +196,11 @@ body{
 .container #flip{
   display: none;
 }
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+
 @media (max-width: 730px) {
   .container .cover{
     display: none;

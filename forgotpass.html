@@ -28,9 +28,15 @@
                     <i class="fas fa-lock"></i>
                     <input type="password" placeholder="Enter your password" required>
                 </div>
-                <div class="button input-box">
-                    <input type="submit" value="Sumbit">
+                <div class="button-container">
+                    <button type="button" onclick="showPopup()">Submit</button>
                 </div>
+                <script>
+                    function showPopup() {
+                        alert("Akun telah diubah. Silahkan sign up kembali.");
+                        location.reload();
+                    }
+                </script>
                 <div class="text sign-up-text">Don't have an account? <a href="login.html">Sign up</a></div>
                 </div>
             </form>
