@@ -269,7 +269,7 @@ Header
 	margin-right: 35px;
 }
 
-.header__top__right__social:after {
+/* .header__top__right__social:after {
 	position: absolute;
 	right: -20px;
 	top: 1px;
@@ -278,7 +278,7 @@ Header
 	background: #000000;
 	opacity: 0.1;
 	content: "";
-}
+} */
 
 .header__top__right__social a {
 	font-size: 14px;
@@ -293,6 +293,12 @@ Header
 
 .header__top__right__auth {
 	display: inline-block;
+	margin-right: 22px;
+}
+
+
+.fa-heart {
+	margin-right: 5px;
 }
 
 .header__top__right__auth a {
@@ -314,6 +320,8 @@ Header
 }
 
 .header__menu {
+	margin-left: 80px;
+	margin-top: -63px;
 	padding: 24px 0;
 }
 
@@ -391,6 +399,7 @@ Header
 }
 
 .header__cart {
+	margin-top: 30px;
 	text-align: right;
 	padding: 24px 0;
 }
@@ -532,11 +541,13 @@ Header
 }
 
 .hero__search {
+	margin-top: -12%;
 	overflow: hidden;
-	margin-bottom: 30px;
+	margin-bottom: 50px;
 }
 
 .hero__search__form {
+	margin-top: 55px;
 	width: 610px;
 	height: 50px;
 	border: 1px solid #ebebeb;
@@ -625,7 +636,7 @@ Header
 }
 
 .hero__item {
-	height: 431px;
+	height: 500px;
 	display: flex;
 	align-items: center;
 	padding-left: 75px;
@@ -2802,7 +2813,8 @@ Header
 
 @media only screen and (min-width: 1200px) {
 	.container {
-		max-width: 1170px;
+		/* max-width: 1170px; */
+		max-width: 1770px;
 	}
 }
 
