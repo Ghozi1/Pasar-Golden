@@ -97,7 +97,7 @@ ol {
 	right: 0;
 	height: 4px;
 	width: 80px;
-	background: #bbbd3b;
+	background: #d4d700;
 	content: "";
 	margin: 0 auto;
 }
@@ -135,7 +135,7 @@ ol {
 	color: #ffffff;
 	text-transform: uppercase;
 	font-weight: 700;
-	background: #bbbd3b;
+	background: #d4d700;
 	letter-spacing: 2px;
 }
 
@@ -146,7 +146,7 @@ ol {
 	text-transform: uppercase;
 	display: inline-block;
 	padding: 13px 30px 12px;
-	background: #bbbd3b;
+	background: #d4d700;
 	border: none;
 }
 
@@ -359,7 +359,7 @@ Header
 }
 
 .header__menu ul li .header__menu__dropdown li:hover>a {
-	color: #bbbd3b;
+	color: #d4d700;
 }
 
 .header__menu ul li .header__menu__dropdown li a {
@@ -370,7 +370,7 @@ Header
 }
 
 .header__menu ul li.active a {
-	color: #bbbd3b;
+	color: #d4d700;
 }
 
 .header__menu ul li:hover .header__menu__dropdown {
@@ -380,7 +380,7 @@ Header
 }
 
 .header__menu ul li:hover>a {
-	color: #bbbd3b;
+	color: #d4d700;
 }
 
 .header__menu ul li:last-child {
@@ -433,7 +433,7 @@ Header
 .header__cart ul li a span {
 	height: 13px;
 	width: 13px;
-	background: #bbbd3b;
+	background: #d4d700;
 	font-size: 10px;
 	color: #ffffff;
 	line-height: 13px;
@@ -496,7 +496,7 @@ Header
 }
 
 .hero__categories__all {
-	background: #bbbd3b;
+	background: #d4d700;
 	position: relative;
 	padding: 10px 25px 10px 40px;
 	cursor: pointer;
@@ -611,7 +611,7 @@ Header
 
 .hero__search__phone__icon {
 	font-size: 18px;
-	color: #bbbd3b;
+	color: #d4d700;
 	height: 50px;
 	width: 50px;
 	background: #f5f5f5;
@@ -649,7 +649,7 @@ Header
 	text-transform: uppercase;
 	font-weight: 700;
 	letter-spacing: 4px;
-	color: #bbbd3b;
+	color: #d4d700;
 }
 
 .hero__text h2 {
@@ -751,7 +751,7 @@ Header
 	bottom: -2px;
 	width: 100%;
 	height: 2px;
-	background: #bbbd3b;
+	background: #d4d700;
 	content: "";
 	opacity: 0;
 }
@@ -799,8 +799,8 @@ Header
 }
 
 .featured__item__pic__hover li:hover a {
-	background: #bbbd3b;
-	border-color: #bbbd3b;
+	background: #d4d700;
+	border-color: #d4d700;
 }
 
 .featured__item__pic__hover li:hover a i {
@@ -1235,8 +1235,8 @@ Header
 }
 
 .product__item__pic__hover li:hover a {
-	background: #bbbd3b;
-	border-color: #bbbd3b;
+	background: #d4d700;
+	border-color: #d4d700;
 }
 
 .product__item__pic__hover li:hover a i {
@@ -1434,7 +1434,7 @@ Header
 }
 
 .filter__option span:hover {
-	color: #bbbd3b;
+	color: #d4d700;
 }
 
 .product__item {
@@ -1475,8 +1475,8 @@ Header
 }
 
 .product__item__pic__hover li:hover a {
-	background: #bbbd3b;
-	border-color: #bbbd3b;
+	background: #d4d700;
+	border-color: #d4d700;
 }
 
 .product__item__pic__hover li:hover a i {
@@ -1556,8 +1556,8 @@ Header
 
 .product__pagination a:hover,
 .blog__pagination a:hover {
-	background: #bbbd3b;
-	border-color: #bbbd3b;
+	background: #d4d700;
+	border-color: #d4d700;
 	color: #ffffff;
 }
 
@@ -2065,8 +2065,8 @@ Header
 }
 
 .checkout__input__checkbox label input:checked~.checkmark {
-	background: #bbbd3b;
-	border-color: #bbbd3b;
+	background: #d4d700;
+	border-color: #d4d700;
 }
 
 .checkout__input__checkbox label input:checked~.checkmark:after {
@@ -2293,7 +2293,7 @@ Header
 }
 
 .blog__sidebar__item ul li a:hover {
-	color: #bbbd3b;
+	color: #d4d700;
 }
 
 .blog__sidebar__search {
@@ -2513,7 +2513,7 @@ Header
 }
 
 .blog__details__widget .blog__details__social a:hover {
-	color: #bbbd3b;
+	color: #d4d700;
 }
 
 .blog__details__widget .blog__details__social a:last-child {
@@ -2631,7 +2631,7 @@ Header
 }
 
 .footer__widget .footer__widget__social a:hover {
-	background: #bbbd3b;
+	background: #d4d700;
 	color: #ffffff;
 	border-color: #ffffff;
 }
@@ -2669,7 +2669,7 @@ Header
 
 .contact__widget span {
 	font-size: 36px;
-	color: #bbbd3b;
+	color: #d4d700;
 }
 
 .contact__widget h4 {
@@ -2708,7 +2708,7 @@ Header
 
 .map .map-inside i {
 	font-size: 48px;
-	color: #bbbd3b;
+	color: #d4d700;
 	position: absolute;
 	bottom: -75px;
 	left: 50%;
@@ -2966,7 +2966,7 @@ Header
 	.humberger__menu__cart ul li a span {
 		height: 13px;
 		width: 13px;
-		background: #bbbd3b;
+		background: #d4d700;
 		font-size: 10px;
 		color: #ffffff;
 		line-height: 13px;
@@ -3032,7 +3032,7 @@ Header
 		-webkit-border-radius: 0;
 		border-radius: 0;
 		background: transparent;
-		color: #bbbd3b;
+		color: #d4d700;
 	}
 	.humberger__menu__wrapper .slicknav_nav .slicknav_row,
 	.humberger__menu__wrapper .slicknav_nav a {
@@ -3224,7 +3224,7 @@ Header
 	.humberger__menu__cart ul li a span {
 		height: 13px;
 		width: 13px;
-		background: #bbbd3b;
+		background: #d4d700;
 		font-size: 10px;
 		color: #ffffff;
 		line-height: 13px;
@@ -3290,7 +3290,7 @@ Header
 		-webkit-border-radius: 0;
 		border-radius: 0;
 		background: transparent;
-		color: #bbbd3b;
+		color: #d4d700;
 	}
 	.humberger__menu__wrapper .slicknav_nav .slicknav_row,
 	.humberger__menu__wrapper .slicknav_nav a {
