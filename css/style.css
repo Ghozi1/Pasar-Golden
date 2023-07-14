@@ -606,6 +606,8 @@ Header
 }
 
 .hero__search__phone {
+	margin-top: 57px;
+	margin-right: 10px;
 	float: right;
 }
 
